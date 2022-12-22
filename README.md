@@ -1,4 +1,5 @@
-### Olá eu sou o Arthur Guilhermino 🖥️ 👋
+
+### Olá eu sou o Arthur Guilhermino 👋
 
 [![Likidin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arthur-guilhermino-5a465825b/)
 
@@ -8,7 +9,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arthurguilhermino&layout=compact)](https://github.com/arthurguilhermino/github-readme-stats)
 
-### Tecnologias do dia a dia
+### Tecnologias do dia a dia 🖥️
 
 <div>
 <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
@@ -18,3 +19,8 @@
 <img align="center" alt="git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
 
 </div>
+
+<br/>
+<br/>
+
+Thinking about the future 🤔
