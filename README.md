@@ -3,7 +3,7 @@
 
 [![Likidin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arthur-guilhermino-5a465825b/)
 
-[![Likidin](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/arthurgn66/)
+[![Likidin](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/arthur.orig/)
 
 ![Arthur GitHub stats](https://github-readme-stats.vercel.app/api?username=ArthurGuilhermino&show_icons=true&theme=dracula)
 
